@@ -13,6 +13,9 @@ Describe the capabilities of Microsoft identity and access management solutions 
 Describe the capabilities of Microsoft Security solutions (25-30%)<BR />
 Describe the capabilities of Microsoft compliance solutions (25-30%)<BR />
 
+## Additional Links:
+Azure Security Benchmark 3.0<BR />
+https://github.com/MicrosoftDocs/SecurityBenchmarks/tree/master/Azure%20Security%20Benchmark/3.0
 
 ## Connect with me at
 
