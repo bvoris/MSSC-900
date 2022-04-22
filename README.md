@@ -5,6 +5,15 @@ My Microsoft SC-900 Microsoft Security, Compliance, and Identity Fundamentals No
 https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900
 
 
+## Passing Score: 700
+
+## Skills Measured:
+Describe the concepts of security, compliance, and identity (10-15%)<BR />
+Describe the capabilities of Microsoft identity and access management solutions (25-30%)<BR />
+Describe the capabilities of Microsoft Security solutions (25-30%)<BR />
+Describe the capabilities of Microsoft compliance solutions (25-30%)<BR />
+
+
 ## Connect with me at
 
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% ALIGN=LEFT></a>
