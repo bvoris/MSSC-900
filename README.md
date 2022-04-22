@@ -4,6 +4,9 @@ My Microsoft SC-900 Microsoft Security, Compliance, and Identity Fundamentals No
 ## Link to Microsoft SC-900 Training Online
 https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900
 
+## Rick Kotlarz SC-900 Training
+https://github.com/RickKotlarz/SC-900
+
 
 ## Passing Score: 700
 
