@@ -1,4 +1,4 @@
-# MSSC-900
+# Microsoft SC-900: Microsoft Security, Compliance, and Identity Fundamentals
 My Microsoft SC-900 Microsoft Security, Compliance, and Identity Fundamentals Notes
 
 ## Link to Microsoft SC-900 Training Online
