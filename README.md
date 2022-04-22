@@ -1,6 +1,15 @@
 # Microsoft SC-900: Microsoft Security, Compliance, and Identity Fundamentals
 My Microsoft SC-900 Microsoft Security, Compliance, and Identity Fundamentals Notes
 
+## What is the SC-900?
+This exam is targeted to those looking to familiarize themselves with the fundamentals of security, compliance, and identity (SCI) across cloud-based and related Microsoft services.<BR /><BR />
+
+This is a broad audience that may include business stakeholders, new or existing IT professionals, or students who have an interest in Microsoft security, compliance, and identity solutions.<BR /><BR />
+
+Candidates should be familiar with Microsoft Azure and Microsoft 365 and want to understand how Microsoft security, compliance, and identity solutions can span across these solution areas to provide a holistic and end-to-end solution.<BR /><BR />
+
+https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900
+
 ## Link to Microsoft SC-900 Training Online
 https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900
 
