@@ -13,11 +13,7 @@ https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900
 ## Link to Microsoft SC-900 Training Online
 https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900
 
-## Rick Kotlarz SC-900 Training
-https://github.com/RickKotlarz/SC-900
 
-## FreeCodeCamp.org - Microsoft Security Compliance and Identity (SC-900) - Full Course PASS the Exam
-https://www.youtube.com/watch?v=LLKza5oULAA
 
 ## Passing Score: 700
 
@@ -189,6 +185,18 @@ Azure Security Benchmark<BR />
 https://docs.microsoft.com/en-us/security/benchmark/azure/ <BR />
 Azure Security Benchmark 3.0<BR />
 https://github.com/MicrosoftDocs/SecurityBenchmarks/tree/master/Azure%20Security%20Benchmark/3.0 <BR />
+
+## Rick Kotlarz SC-900 Training
+https://github.com/RickKotlarz/SC-900
+
+## FreeCodeCamp.org - Microsoft Security Compliance and Identity (SC-900) - Full Course PASS the Exam
+https://www.youtube.com/watch?v=LLKza5oULAA
+
+## SC-900 Microsoft Security, Compliance and Identity Exam Cram (Full Course)
+https://www.youtube.com/watch?v=rDxtTM7cOPI
+
+## Microsoft Security Compliance and Identity (SC-900) - Full Course PASS the Exam
+https://www.youtube.com/watch?v=Bz-8jM3jg-8
 
 ## Connect with me at
 
