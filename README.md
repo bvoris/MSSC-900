@@ -7,6 +7,8 @@ https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900
 ## Rick Kotlarz SC-900 Training
 https://github.com/RickKotlarz/SC-900
 
+## FreeCodeCamp.org - Microsoft Security Compliance and Identity (SC-900) - Full Course PASS the Exam
+https://www.youtube.com/watch?v=LLKza5oULAA
 
 ## Passing Score: 700
 
