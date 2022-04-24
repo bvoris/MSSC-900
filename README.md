@@ -133,10 +133,10 @@ Microsoft Defender<BR />
 Defender for Office 365<BR />
 Defender for Identity<BR />
 Defender for Endpoint<BR />
-Azure Sentinel<BR />
-SIEM<BR />
-SOAR<BR />
-XDR<BR />
+Azure Sentinel (https://azure.microsoft.com/en-us/services/microsoft-sentinel) - Azure Sentinel is a SIEM (Security Information and Event Management) and Security Orchestration and Automated Response (SOAR) system in Microsoft's public cloud platform. <BR />
+SIEM - Security Information and Event Management<BR />
+SOAR - Security Orchestration and Automated Response<BR />
+XDR - Extended Detect and Response<BR />
 Microsoft Intune<BR />
 MDM<BR />
 -------------------------------------------------------------------------------------------------------------------------------------------------------------<BR />
