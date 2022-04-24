@@ -131,6 +131,12 @@ Azure Secure Score<BR />
 Microsoft Cloud App Security<BR />
 Microsoft Defender (https://protection.office.com)<BR />
 Defender for Office 365 (https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/overview?view=o365-worldwide)<BR />
+What is Defender for Office 365 security?<BR />
+Every Office 365 subscription comes with security capabilities. The goals and actions that you can take depend on the focus of these different subscriptions. In Office 365 security, there are three main security services (or products) tied to your subscription type:<BR />
+1) Exchange Online Protection (EOP) - Prevents broad, volume-based, known attacks.<BR />
+2) Microsoft Defender for Office 365 Plan 1 (Defender for Office P1) - Protects email and collaboration from zero-day malware, phish, and business email compromise.<BR />
+3) Microsoft Defender for Office 365 Plan 2 (Defender for Office P2) - Adds post-breach investigation, hunting, and response, as well as automation, and simulation (for training).<BR />
+
 Defender for Identity<BR />
 Defender for Endpoint<BR />
 Azure Sentinel (https://azure.microsoft.com/en-us/services/microsoft-sentinel) - Azure Sentinel is a SIEM (Security Information and Event Management) and Security Orchestration and Automated Response (SOAR) system in Microsoft's public cloud platform. Sentinel can be accessed here https://aka.ms/microsoftazuresentinel<BR />
