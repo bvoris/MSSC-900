@@ -13,8 +13,6 @@ https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900
 ## Link to Microsoft SC-900 Training Online
 https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900
 
-
-
 ## Passing Score: 700
 
 ## Skills Measured:
@@ -22,6 +20,10 @@ Describe the concepts of security, compliance, and identity (10-15%)<BR />
 Describe the capabilities of Microsoft identity and access management solutions (25-30%)<BR />
 Describe the capabilities of Microsoft Security solutions (25-30%)<BR />
 Describe the capabilities of Microsoft compliance solutions (25-30%)<BR />
+## Preamble
+While the Microsoft learning path has the majority of high level information required to pass the exam, it is not enough. I'd highly recommend reading Microsoft Security, Compliance and Identity Fundamentals Exam Ref SC-900. The book itself is good but also missing updated components, so additional supplementations should be considered. I'd also suggest getting some hand on familiarity with the basics of M365 and Azure. This will provide a substantial benefit to futher your learning path. 
+I've tried to include as much information as possible between my studies via the learning path, exam ref, MS docs, and youtube videos I've found helpful.
+<BR />
 ## My SC-900 Notes:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------<BR />
 Describe the concepts of security, compliance, and identity (10-15%)<BR />
