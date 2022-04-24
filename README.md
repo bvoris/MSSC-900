@@ -324,6 +324,10 @@ https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/azure-secure
 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ct-p/MicrosoftSecurityandCompliance<BR />
 <BR />
 
+## Security roadmap - Top priorities for the first 30 days, 90 days, and beyond
+https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/security-roadmap?view=o365-worldwide<BR />
+<BR />
+
 ## Connect with me at
 
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% ALIGN=LEFT></a>
