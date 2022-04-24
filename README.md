@@ -68,6 +68,7 @@ Describe the concepts of security, compliance, and identity (10-15%)<BR />
 ------------Data Residency - where data can be stored and how and when it can be transferred, processed, or accessed internationally<BR />
 ------------Data Sovereignty -  laws and regulations of the country/region in which data's physically collected, held, or processe<BR />
 ------------Data Privacy - Providing notice and being transparent about the collection, processing, use, and sharing of personal data are fundamental principles of privacy laws and regulations.<BR />
+<BR />
 -------------------------------------------------------------------------------------------------------------------------------------------------------------<BR />
 Describe the capabilities of Microsoft identity and access management solutions (25-30%)<BR />
 -------------------------------------------------------------------------------------------------------------------------------------------------------------<BR />
@@ -104,6 +105,7 @@ Describe the capabilities of Microsoft identity and access management solutions 
 ------------------Azure AD Password hash synchronization -  is the simplest way to enable authentication for on-premises directory objects in Azure AD. Users can sign in to Azure AD services by using the same username and password that they use to sign in to their on-premises Active Directory instance. Azure AD handles users' sign-in process.<BR />
 ------------------Azure AD Pass-through authentication -  allows users to sign in to both on-premises and cloud-based applications using the same passwords, like password hash synch. A key difference, however, is when users sign in using Azure AD, pass-through authentication validates users' passwords directly against your on-premises Active Directory.<BR />
 ------------------Federated authentication -  recommended as an authentication for organizations that have advanced features not currently supported in Azure AD, including sign-on using smart cards or certificates, sign-on using on-premises multi-factor authentication (MFA) server, and sign-on using a third party authentication solution.<BR />
+<BR />
 -------------------------------------------------------------------------------------------------------------------------------------------------------------<BR />
 Describe the capabilities of Microsoft Security solutions (25-30%)<BR />
 -------------------------------------------------------------------------------------------------------------------------------------------------------------<BR />
@@ -231,7 +233,7 @@ SIEM - Security Information and Event Management<BR />
 SOAR - Security Orchestration and Automated Response<BR />
 XDR - Extended Detect and Response<BR />
 Microsoft Intune<BR />
-MDM<BR />
+MDM<BR /><BR />
 -------------------------------------------------------------------------------------------------------------------------------------------------------------<BR />
 Describe the capabilities of Microsoft compliance solutions (25-30%)<BR />
 -------------------------------------------------------------------------------------------------------------------------------------------------------------<BR />
