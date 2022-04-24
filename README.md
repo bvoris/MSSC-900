@@ -315,6 +315,10 @@ https://docs.microsoft.com/en-us/learn/paths/m365-security-compliance-capabiliti
 Describe concepts of cryptography - https://docs.microsoft.com/en-us/learn/modules/describe-concepts-of-cryptography/<BR />
 <BR />
 
+## Azure Secure Score vs. Microsoft SecureScore - by Bojan Magusic
+https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/azure-secure-score-vs-microsoft-secure-score/ba-p/2459684<BR />
+<BR />
+
 ## Connect with me at
 
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% ALIGN=LEFT></a>
