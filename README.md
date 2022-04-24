@@ -193,7 +193,14 @@ AIR from Threat Explorer<BR />
 AIR for compromised users<BR />
 SIEM Integration API for Automated Investigations<BR />
 <BR />
-Defender for Identity<BR />
+Defender for Identity (https://docs.microsoft.com/en-us/defender-for-identity/what-is) <BR />
+Defender for Identity enables SecOp analysts and security professionals struggling to detect advanced attacks in hybrid environments to:<BR />
+<BR />
+Monitor users, entity behavior, and activities with learning-based analytics<BR />
+Protect user identities and credentials stored in Active Directory<BR />
+Identify and investigate suspicious user activities and advanced attacks throughout the kill chain<BR />
+Provide clear incident information on a simple timeline for fast triage<BR />
+<BR />
 Defender for Endpoint<BR />
 Azure Sentinel (https://azure.microsoft.com/en-us/services/microsoft-sentinel) - Azure Sentinel is a SIEM (Security Information and Event Management) and Security Orchestration and Automated Response (SOAR) system in Microsoft's public cloud platform. Sentinel can be accessed here https://aka.ms/microsoftazuresentinel<BR />
 SIEM - Security Information and Event Management<BR />
