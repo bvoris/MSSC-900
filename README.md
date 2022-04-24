@@ -294,6 +294,7 @@ https://www.youtube.com/watch?v=Bz-8jM3jg-8
 
 ## Microsoft Learning Path Training 
 Microsoft Security, Compliance, and Identity Fundamentals: Describe the concepts of security, compliance, and identity - https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/<BR />
+<BR />
 Detect and respond to cyber attacks with Microsoft Defender - https://docs.microsoft.com/en-us/learn/paths/defender-endpoint-fundamentals/<BR />
 <BR />
 ## Connect with me at
