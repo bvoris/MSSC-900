@@ -128,7 +128,9 @@ Describe the capabilities of Microsoft Security solutions (25-30%)<BR />
 ------------------Store Secrets backed by hardware security models (HSM) -  The secrets and keys can be protected either by software or by FIPS 140-2 Level 2 validated HSMs.<BR /><BR />
 Azure Security Center (https://securitycenter.microsoft.com/) - <BR />
 Azure Secure Score<BR />
-Microsoft Cloud App Security<BR />
+Microsoft Defemder for Cloud Apps (formerly Microsoft Cloud App Security or MCAS) (https://docs.microsoft.com/en-us/defender-cloud-apps/what-is-defender-for-cloud-apps)<BR />
+Microsoft Defender for Cloud Apps is a Cloud Access Security Broker (CASB) that supports various deployment modes including log collection, API connectors, and reverse proxy. It provides rich visibility, control over data travel, and sophisticated analytics to identify and combat cyberthreats across all your Microsoft and third-party cloud services.<BR />
+<BR />
 Microsoft Defender (https://protection.office.com)<BR />
 Defender for Office 365 (https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/overview?view=o365-worldwide)<BR />
 What is Defender for Office 365 security?<BR />
