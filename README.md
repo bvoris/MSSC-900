@@ -319,6 +319,10 @@ Describe concepts of cryptography - https://docs.microsoft.com/en-us/learn/modul
 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/azure-secure-score-vs-microsoft-secure-score/ba-p/2459684<BR />
 <BR />
 
+## Microsoft Tech Community: Security Compliance and Identity
+https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ct-p/MicrosoftSecurityandCompliance<BR />
+<BR />
+
 ## Connect with me at
 
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% ALIGN=LEFT></a>
