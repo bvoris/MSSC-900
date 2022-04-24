@@ -130,74 +130,73 @@ Describe the capabilities of Microsoft Security solutions (25-30%)<BR />
 ------------------Key Management - You can use Key Vault as a key management solution. Key Vault makes it easier to create and control the encryption keys used to encrypt your data.<BR />
 ------------------Certificate Management -  Key Vault lets you provision, manage, and deploy your public and private Secure Sockets Layer/ Transport Layer Security (SSL/ TLS) certificates for Azure, and internally connected, resources more easily.<BR />
 ------------------Store Secrets backed by hardware security models (HSM) -  The secrets and keys can be protected either by software or by FIPS 140-2 Level 2 validated HSMs.<BR /><BR />
-Azure Security Center (https://securitycenter.microsoft.com/) - <BR />
-Azure Secure Score<BR />
-Microsoft Defender for Cloud Apps (formerly Microsoft Cloud App Security or MCAS) (https://docs.microsoft.com/en-us/defender-cloud-apps/what-is-defender-for-cloud-apps)<BR />
+------Azure Security Center (https://securitycenter.microsoft.com/) - <BR />
+------Azure Secure Score<BR />
+------Microsoft Defender for Cloud Apps (formerly Microsoft Cloud App Security or MCAS) (https://docs.microsoft.com/en-us/defender-cloud-apps/what-is-defender-for-cloud-apps)<BR />
 Microsoft Defender for Cloud Apps is a Cloud Access Security Broker (CASB) that supports various deployment modes including log collection, API connectors, and reverse proxy. It provides rich visibility, control over data travel, and sophisticated analytics to identify and combat cyberthreats across all your Microsoft and third-party cloud services.<BR />
 <BR />
-Microsoft Defender (https://protection.office.com)<BR />
-Defender for Office 365 (https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/overview?view=o365-worldwide)<BR />
-What is Defender for Office 365 security?<BR />
-Every Office 365 subscription comes with security capabilities. The goals and actions that you can take depend on the focus of these different subscriptions. In Office 365 security, there are three main security services (or products) tied to your subscription type:<BR />
-1) Exchange Online Protection (EOP) - Prevents broad, volume-based, known attacks.<BR />
-2) Microsoft Defender for Office 365 Plan 1 (Defender for Office P1) - Protects email and collaboration from zero-day malware, phish, and business email compromise.<BR />
-3) Microsoft Defender for Office 365 Plan 2 (Defender for Office P2) - Adds post-breach investigation, hunting, and response, as well as automation, and simulation (for training).<BR /><BR />
-
-Exchange Online Protection Capabilities:<BR />
+------Microsoft Defender (https://protection.office.com)<BR />
+------------Defender for Office 365 (https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/overview?view=o365-worldwide)<BR />
+------------What is Defender for Office 365 security?<BR />
+------------Every Office 365 subscription comes with security capabilities. The goals and actions that you can take depend on the focus of these different subscriptions. In Office 365 security, there are three main security services (or products) tied to your subscription type:<BR />
+------------------1) Exchange Online Protection (EOP) - Prevents broad, volume-based, known attacks.<BR />
+------------------2) Microsoft Defender for Office 365 Plan 1 (Defender for Office P1) - Protects email and collaboration from zero-day malware, phish, and business email compromise.<BR />
+------------------3) Microsoft Defender for Office 365 Plan 2 (Defender for Office P2) - Adds post-breach investigation, hunting, and response, as well as automation, and simulation (for training).<BR /><BR />
+------------------Exchange Online Protection Capabilities:<BR />
+------------------------Prevent/Detect:<BR />
+------------------------------spam<BR />
+------------------------------phish<BR />
+------------------------------malware<BR />
+------------------------------bulk mail<BR />
+------------------------------spoof intelligence<BR />
+------------------------------impersonation detection<BR />
+------------------------------Admin Quarantine<BR />
+------------------------------Admin and user submissions of False Positives and False Negatives<BR />
+------------------------------Allow/Block for URLs and Files<BR />
+------------------------------Reports<BR />
+<BR />
+------------------------Investigate:<BR />
+------------------------------Audit log search<BR />
+------------------------------Message Trace<BR />
+<BR />
+------------------------Respond:<BR />
+------------------------------Zero-hour auto purge (ZAP)<BR />
+------------------------------Refinement and testing of Allow and Block lists<BR />
+<BR />
+ ------------------Defender for Office 365, Plan 1<BR />
 Prevent/Detect:<BR />
-spam<BR />
-phish<BR />
-malware<BR />
-bulk mail<BR />
-spoof intelligence<BR />
-impersonation detection<BR />
-Admin Quarantine<BR />
-Admin and user submissions of False Positives and False Negatives<BR />
-Allow/Block for URLs and Files<BR />
-Reports<BR />
+------------------------Technologies include everything in EOP plus:<BR />
+------------------------------Safe attachments<BR />
+------------------------------Safe links<BR />
+------------------------------Microsoft Defender for Office 365 protection for workloads (ex. SharePoint Online, Teams, OneDrive for Business)<BR />
+------------------------------Time-of-click protection in email, Office clients, and Teams<BR />
+------------------------------anti-phishing in Defender for Office 365<BR />
+------------------------------User and domain impersonation protection<BR />
+------------------------------Alerts, and SIEM integration API for alerts<BR />
 <BR />
-Investigate:<BR />
-Audit log search<BR />
-Message Trace<BR />
+------------------------Investigate:<BR />
+------------------------------SIEM integration API for detections<BR />
+------------------------------Real-time detections tool<BR />
+------------------------------URL trace<BR />
 <BR />
-Respond:<BR />
-Zero-hour auto purge (ZAP)<BR />
-Refinement and testing of Allow and Block lists<BR />
+------------------------Respond:<BR />
+------------------------------Same<BR />
 <BR />
- Defender for Office 365, Plan 1<BR />
-Prevent/Detect:<BR />
-Technologies include everything in EOP plus:<BR />
-Safe attachments<BR />
-Safe links<BR />
-Microsoft Defender for Office 365 protection for workloads (ex. SharePoint Online, Teams, OneDrive for Business)<BR />
-Time-of-click protection in email, Office clients, and Teams<BR />
-anti-phishing in Defender for Office 365<BR />
-User and domain impersonation protection<BR />
-Alerts, and SIEM integration API for alerts<BR />
-<BR />
-Investigate:<BR />
-SIEM integration API for detections<BR />
-Real-time detections tool<BR />
-URL trace<BR />
-<BR />
-Respond:<BR />
+------------------Defender for Office 365, Plan 2:<BR />
+------------------------Prevent/Detect:<BR />
+------------------------------Technologies include everything in EOP, and Microsoft Defender for Office 365 P1 plus:<BR />
 Same<BR />
 <BR />
-Defender for Office 365, Plan 2:<BR />
-Prevent/Detect:<BR />
-Technologies include everything in EOP, and Microsoft Defender for Office 365 P1 plus:<BR />
-Same<BR />
+------------------------Investigate:<BR />
+------------------------------Threat Explorer<BR />
+------------------------------Threat Trackers<BR />
+------------------------------Campaign views<BR />
 <BR />
-Investigate:<BR />
-Threat Explorer<BR />
-Threat Trackers<BR />
-Campaign views<BR />
-<BR />
-Respond:<BR />
-Automated Investigation and Response (AIR)<BR />
-AIR from Threat Explorer<BR />
-AIR for compromised users<BR />
-SIEM Integration API for Automated Investigations<BR />
+------------------------Respond:<BR />
+------------------------------Automated Investigation and Response (AIR)<BR />
+------------------------------AIR from Threat Explorer<BR />
+------------------------------AIR for compromised users<BR />
+------------------------------SIEM Integration API for Automated Investigations<BR />
 <BR />
 Defender for Identity (https://docs.microsoft.com/en-us/defender-for-identity/what-is) <BR />
 Defender for Identity enables SecOp analysts and security professionals struggling to detect advanced attacks in hybrid environments to:<BR />
