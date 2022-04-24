@@ -328,6 +328,9 @@ https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ct-p/Mic
 https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/security-roadmap?view=o365-worldwide<BR />
 <BR />
 
+## Exam Ref SC-900 Microsoft Security, Compliance, and Identity Fundamentals
+https://www.amazon.com/Exam-SC-900-Microsoft-Security-Fundamentals/dp/013756810X/ref=sr_1_1?keywords=sc-900+microsoft+security%2C+compliance%2C+and+identity+fundamentals&qid=1650817509&sprefix=microsoft+security+compl%2Caps%2C148&sr=8-1
+
 ## Connect with me at
 
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% ALIGN=LEFT></a>
