@@ -130,7 +130,7 @@ Azure Security Center (https://securitycenter.microsoft.com/) - <BR />
 Azure Secure Score<BR />
 Microsoft Cloud App Security<BR />
 Microsoft Defender (https://protection.office.com)<BR />
-Defender for Office 365<BR />
+Defender for Office 365 (https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/overview?view=o365-worldwide)<BR />
 Defender for Identity<BR />
 Defender for Endpoint<BR />
 Azure Sentinel (https://azure.microsoft.com/en-us/services/microsoft-sentinel) - Azure Sentinel is a SIEM (Security Information and Event Management) and Security Orchestration and Automated Response (SOAR) system in Microsoft's public cloud platform. Sentinel can be accessed here https://aka.ms/microsoftazuresentinel<BR />
