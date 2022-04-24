@@ -126,6 +126,19 @@ Describe the capabilities of Microsoft Security solutions (25-30%)<BR />
 ------------------Key Management - You can use Key Vault as a key management solution. Key Vault makes it easier to create and control the encryption keys used to encrypt your data.<BR />
 ------------------Certificate Management -  Key Vault lets you provision, manage, and deploy your public and private Secure Sockets Layer/ Transport Layer Security (SSL/ TLS) certificates for Azure, and internally connected, resources more easily.<BR />
 ------------------Store Secrets backed by hardware security models (HSM) -  The secrets and keys can be protected either by software or by FIPS 140-2 Level 2 validated HSMs.<BR />
+Azure Security Center<BR />
+Azure Secure Score<BR />
+Microsoft Cloud App Security<BR />
+Microsoft Defender<BR />
+Defender for Office 365<BR />
+Defender for Identity<BR />
+Defender for Endpoint<BR />
+Azure Sentinel<BR />
+SIEM<BR />
+SOAR<BR />
+XDR<BR />
+Microsoft Intune<BR />
+MDM<BR />
 -------------------------------------------------------------------------------------------------------------------------------------------------------------<BR />
 Describe the capabilities of Microsoft compliance solutions (25-30%)<BR />
 -------------------------------------------------------------------------------------------------------------------------------------------------------------<BR />
