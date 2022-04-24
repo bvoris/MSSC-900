@@ -125,7 +125,7 @@ Describe the capabilities of Microsoft Security solutions (25-30%)<BR />
 ------------------Secrets Management - You can use Key Vault to store securely and tightly control access to tokens, passwords, certificates, Application Programming Interface (API) keys, and other secrets.<BR />
 ------------------Key Management - You can use Key Vault as a key management solution. Key Vault makes it easier to create and control the encryption keys used to encrypt your data.<BR />
 ------------------Certificate Management -  Key Vault lets you provision, manage, and deploy your public and private Secure Sockets Layer/ Transport Layer Security (SSL/ TLS) certificates for Azure, and internally connected, resources more easily.<BR />
-------------------Store Secrets backed by hardware security models (HSM) -  The secrets and keys can be protected either by software or by FIPS 140-2 Level 2 validated HSMs.<BR />
+------------------Store Secrets backed by hardware security models (HSM) -  The secrets and keys can be protected either by software or by FIPS 140-2 Level 2 validated HSMs.<BR /><BR />
 Azure Security Center (https://securitycenter.microsoft.com/) - <BR />
 Azure Secure Score<BR />
 Microsoft Cloud App Security<BR />
