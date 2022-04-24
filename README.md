@@ -136,7 +136,8 @@ Every Office 365 subscription comes with security capabilities. The goals and ac
 1) Exchange Online Protection (EOP) - Prevents broad, volume-based, known attacks.<BR />
 2) Microsoft Defender for Office 365 Plan 1 (Defender for Office P1) - Protects email and collaboration from zero-day malware, phish, and business email compromise.<BR />
 3) Microsoft Defender for Office 365 Plan 2 (Defender for Office P2) - Adds post-breach investigation, hunting, and response, as well as automation, and simulation (for training).<BR /><BR />
-Exchange Oline Protection Capabilities:<BR />
+
+Exchange Online Protection Capabilities:<BR />
 Prevent/Detect:<BR />
 spam<BR />
 phish<BR />
@@ -157,8 +158,41 @@ Respond:<BR />
 Zero-hour auto purge (ZAP)<BR />
 Refinement and testing of Allow and Block lists<BR />
 <BR />
-
-
+ Defender for Office 365, Plan 1<BR />
+Prevent/Detect:<BR />
+Technologies include everything in EOP plus:<BR />
+Safe attachments<BR />
+Safe links<BR />
+Microsoft Defender for Office 365 protection for workloads (ex. SharePoint Online, Teams, OneDrive for Business)<BR />
+Time-of-click protection in email, Office clients, and Teams<BR />
+anti-phishing in Defender for Office 365<BR />
+User and domain impersonation protection<BR />
+Alerts, and SIEM integration API for alerts<BR />
+<BR />
+Investigate:<BR />
+SIEM integration API for detections<BR />
+Real-time detections tool<BR />
+URL trace<BR />
+<BR />
+Respond:<BR />
+Same<BR />
+<BR />
+Defender for Office 365, Plan 2:<BR />
+Prevent/Detect:<BR />
+Technologies include everything in EOP, and Microsoft Defender for Office 365 P1 plus:<BR />
+Same<BR />
+<BR />
+Investigate:<BR />
+Threat Explorer<BR />
+Threat Trackers<BR />
+Campaign views<BR />
+<BR />
+Respond:<BR />
+Automated Investigation and Response (AIR)<BR />
+AIR from Threat Explorer<BR />
+AIR for compromised users<BR />
+SIEM Integration API for Automated Investigations<BR />
+<BR />
 Defender for Identity<BR />
 Defender for Endpoint<BR />
 Azure Sentinel (https://azure.microsoft.com/en-us/services/microsoft-sentinel) - Azure Sentinel is a SIEM (Security Information and Event Management) and Security Orchestration and Automated Response (SOAR) system in Microsoft's public cloud platform. Sentinel can be accessed here https://aka.ms/microsoftazuresentinel<BR />
