@@ -329,7 +329,12 @@ https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/secu
 <BR />
 
 ## Exam Ref SC-900 Microsoft Security, Compliance, and Identity Fundamentals
-https://www.amazon.com/Exam-SC-900-Microsoft-Security-Fundamentals/dp/013756810X/ref=sr_1_1?keywords=sc-900+microsoft+security%2C+compliance%2C+and+identity+fundamentals&qid=1650817509&sprefix=microsoft+security+compl%2Caps%2C148&sr=8-1
+https://www.amazon.com/Exam-SC-900-Microsoft-Security-Fundamentals/dp/013756810X/ref=sr_1_1?keywords=sc-900+microsoft+security%2C+compliance%2C+and+identity+fundamentals&qid=1650817509&sprefix=microsoft+security+compl%2Caps%2C148&sr=8-1<BR />
+<BR />
+
+## MicrosoftLearning SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals
+https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals<BR />
+<BR />
 
 ## Connect with me at
 
