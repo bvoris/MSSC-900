@@ -1,6 +1,15 @@
 # Microsoft SC-900: Microsoft Security, Compliance, and Identity Fundamentals
 My Microsoft SC-900 Microsoft Security, Compliance, and Identity Fundamentals Notes
 
+Created by: Brad Voris<BR />
+<img alt="GitHub" src="https://img.shields.io/github/license/bvoris/MSSC-900">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/MSSC-900">
+<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/MSSC-900/total">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bvoris/MSSC-900">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/MSSC-900">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/MSSC-900">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/MSSC-900">
+
 ## What is the SC-900?
 This exam is targeted to those looking to familiarize themselves with the fundamentals of security, compliance, and identity (SCI) across cloud-based and related Microsoft services.<BR /><BR />
 
