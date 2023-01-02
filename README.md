@@ -314,6 +314,9 @@ https://www.youtube.com/watch?v=rDxtTM7cOPI
 ## Microsoft Security Compliance and Identity (SC-900) - Full Course PASS the Exam
 https://www.youtube.com/watch?v=Bz-8jM3jg-8
 
+## Exam SC-900: Microsoft Security, Compliance, and Identity (Playlist)
+https://www.youtube.com/playlist?list=PLhLKc18P9YOCAt0hPdnPavwr9V4ADItcq
+
 ## Microsoft Learning Path Training 
 Microsoft Security, Compliance, and Identity Fundamentals: Describe the concepts of security, compliance, and identity - https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/<BR />
 <BR />
