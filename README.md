@@ -359,5 +359,4 @@ https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Id
 
 <A HREF="https://www.victimoftechnology.com">Victim Of Technology<A />
 <BR /><BR />
-<A HREF="https://www.cyberforgesecurity.com">Cyber Forge Security, Inc.<A />
-<BR /><BR />
+
